@@ -1,4 +1,4 @@
 ---
-layout: Pages
+layout: home
 
 ---
