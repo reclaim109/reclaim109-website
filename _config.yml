@@ -13,31 +13,63 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+theme: jekyll-theme-so-simple
+title: FUCK die 109 ist weg
+email: reclaim109@riseup.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Die 109 war ein politisches Wohnzimmer zum Austausch, Vernetzen und Organisieren auf der Eisenbahnstraße in Leipzig. Auf Basis von Hierarchiefreiheit, diskriminierungsfreiem Miteinander, Konsens- und Spendenprinzip wurden die Räume solidarisch selbstverwaltet. Nach vielen Jahren wurde der Mietvertrag jedoch nicht mehr verlängert, sodass wir Ende Juni 2018 die Räume verlassen mussten. Aber nur weil wir rausgeschmissen wurden, geben wir die 109 nicht auf! Wir glauben weiterhin, dass es wichtig ist die Räume im Viertel zu erhalten, neue zu gründen und sich gegen Verdrängung im Leipziger Osten zu stellen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
+  
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+# Liquid
+liquid:
+  error_mode: strict
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+feed:
+  path: atom.xml
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+  
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+
+
+# Footer Links
+footer_links:
+  - title: Facebook
+    url: https://facebook.com/politischesWohnzimmer
+    icon: fab fa-facebook
+  - title: GitHub
+    url: https://github.com/reclaim109/reclaim109-website
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
