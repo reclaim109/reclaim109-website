@@ -5,4 +5,5 @@ is_partial: false
 fields:
 - type: text
 pages:
+- _posts/test.md
 - Vision/ladenprojekt.md
