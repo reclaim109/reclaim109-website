@@ -5,3 +5,5 @@ is_partial: false
 fields:
 - type: text
 - type: textarea
+pages:
+- vision.md
