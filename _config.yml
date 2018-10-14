@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Fuck! Die 109 ist weg
 tagline:          Black Theme for Jekyll
-description:      ""
+description:      "Die 109 war ein politisches Wohnzimmer zum Austausch, Vernetzen und Organisieren auf der Eisenbahnstraße in Leipzig."
 url:              https://hundertneun.net
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
