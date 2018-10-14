@@ -11,10 +11,6 @@ baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
-author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
-
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/my-jekyll-site/page:num' if you want to move your index pages
@@ -28,4 +24,4 @@ plugins:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://github.com/reclaim109/reclaim109-website
