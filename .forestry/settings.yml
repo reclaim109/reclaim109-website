@@ -8,7 +8,7 @@ sections:
   label: Posts
   create: all
 - type: jekyll-pages
-  label: Konzept
+  label: Concept
   create: all
 - type: jekyll-pages
   label: Pages
