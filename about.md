@@ -9,7 +9,7 @@ Die 109 war ein politisches Wohnzimmer zum Austausch, Vernetzen und Organisieren
 
 ## About BlackDoc Theme
 
-Some relevant information about this project: 
+Some relevant information about this project:
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
