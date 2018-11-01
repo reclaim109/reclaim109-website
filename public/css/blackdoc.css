@@ -27,16 +27,21 @@ ______ _            _   ______
  * Update the foundational and global aspects of the page.
  */
 
+@font-face {
+  font-family: "Gill Sans";
+  src: url("../fonts/GillSans.ttc");
+}
+
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans",  "Times New Roman", "Century Schoolbook", Helvetica, Arial, sans-serif;
 }
 
 body {
   color: #F5B4DD;
-  background-color: #220925;
+  background-color: #1C002B;
 }
 
-h1,
+h1 {font-family: "Times New Roman", font-weight:100},
 h2,
 h3,
 h4,
@@ -46,7 +51,7 @@ h6 {
   color: #aaa;
 }
 
-h1 a,
+h1 a {font-family: "Times New Roman"},
 h2 a,
 h3 a,
 h4 a,
@@ -188,7 +193,7 @@ tbody tr:nth-child(odd) th {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: #991029;
+  color: #1C002B;
   background-color: #000;
   overflow: auto;
 }
@@ -205,7 +210,7 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #78D2D0;
+  color: #FF005D;
 }
 
 /* About section */
@@ -320,9 +325,9 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* 109 */
+/* 109 style */
 .theme-base-109 .sidebar {
-  background-color: #220925;
+  background-color: #FFFFFF;
 }
 .theme-base-109 .content a,
 .theme-base-109 .related-posts li a:hover {
