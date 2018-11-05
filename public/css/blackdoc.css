@@ -196,6 +196,7 @@ tbody tr:nth-child(odd) th {
   color: #1C002B;
   background-color: #000;
   overflow: auto;
+  font-size: 12px;
 }
 @media (min-width: 48em) {
   .sidebar {
