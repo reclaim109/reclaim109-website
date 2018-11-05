@@ -48,7 +48,7 @@ h4,
 h5,
 h6 {
   font-family: 'Gill Sans', serif;
-  color: #aaa;
+  color: #83001F;
 }
 
 h1 a,
@@ -292,10 +292,10 @@ a.sidebar-nav-item:focus {
  */
 
 /* Blog post or page title */
-.page-title,
-.post-title,
+.page-title {color: #83001F},
+.post-title {color: #83001F},
 .post-title a {
-  color: #caad00;
+  color: #78D2D0;
 }
 
 /*
