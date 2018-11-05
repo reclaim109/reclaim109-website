@@ -21,7 +21,9 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            2.0.1
+version:            1.0.1
 
 github:
-  repo:             https://github.com/reclaim109/reclaim109-website
+  url:             https://github.com/reclaim109/reclaim109-website
+facebook:
+  url:             https://www.facebook.com/politischesWohnzimmer
