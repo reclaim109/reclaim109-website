@@ -68,53 +68,64 @@ $grey-15: #171717;
 $grey-16: #0B0B0B;
 
 
+/*  109 Farben
+---------------------------------------- */
+$hund9-footer-text: #F5B4DD;
+$hund9-footer-bg: #1C002B;
+$hund9-footer-links: #78D2D0;
+
+$hund9-nav-text: #F5B4DD;
+$hund9-nav-bg: #1C002B;
+$hund9-nav-links: #78D2D0;
+$hund9-nav-active: #FF005D;
+
 
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
-$topbar-bg: $topbar-bg-color;
+$topbar-bg-color: $hund9-nav-bg;
+$topbar-bg: $hund9-nav-bg;
 
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $hund9-nav-links;
 
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color: $hund9-nav-links;
+$topbar-link-color-hover: $hund9-nav-links;
+$topbar-link-color-active: $hund9-nav-links;
+$topbar-link-color-active-hover: $hund9-nav-links;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $hund9-nav-active;
+$topbar-dropdown-link-bg-hover: $hund9-nav-active;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $hund9-nav-active; // Active Navigation Link
+$topbar-link-bg-hover: $hund9-nav-active;
+$topbar-link-bg-active-hover: $hund9-nav-active;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-bg: $hund9-nav-active; // Background Mobile Navigation
+$topbar-dropdown-link-color: $hund9-nav-links;
+$topbar-dropdown-link-bg: $hund9-nav-bg;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $hund9-nav-links;
+$topbar-menu-icon-color-toggled: $hund9-nav-links;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
-$footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-bg: $hund9-footer-bg;
+$footer-color: $hund9-footer-text;
+$footer-link-color: $hund9-footer-links;
 
 
-$subfooter-bg: $grey-13;
-$subfooter-color: $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-bg: $hund9-footer-bg;
+$subfooter-color: $hund9-footer-text;
+$subfooter-link-color: $hund9-footer-links;
 
 
 
