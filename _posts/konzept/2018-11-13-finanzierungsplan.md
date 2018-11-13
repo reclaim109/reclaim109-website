@@ -1,16 +1,16 @@
 ---
 layout: page-fullwidth
-subheadline:  "Finanzierungsplan"
-title:  "Finanzierungsplan"
-teaser: "Finanzierungsplan"
+subheadline: Finanzierungsplan
+title: Finanzierungsplan
+teaser: Finanzierungsplan
 breadcrumb: true
 categories:
-    - konzept
-permalink: /konzept/finanzierungsplan/
+- konzept
+permalink: "/konzept/finanzierungsplan/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+  image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
----
+  thumb: unsplash_brooklyn-bridge-thumb.jpg
 
-Hier erscheint bald Text
+---
+Hier erscheint bald Text 
