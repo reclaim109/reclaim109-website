@@ -1,17 +1,17 @@
 ---
-layout: video
-show_meta: false
-title: "Video Template"
-subheadline: "Templates"
-teaser: "If you want to show videos in a large manner, the video template is the right choice."
+layout: page
+subheadline:  "Prinzipien"
+title:  "Prinzipien"
+teaser: "Prinzipien"
 tags:
-    - post format
+    - konzept
 categories:
-    - design
+    - konzept
+permalink: /konzept/prinzipien/
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #
