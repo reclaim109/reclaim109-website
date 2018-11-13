@@ -1,0 +1,46 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: "Konzept 109"
+  url: "/konzept/"
+  side: left
+  dropdown:
+  - title: "Prinzipien"
+    url: "/konzept/prinzipien/"
+  - title: "Struktur"
+    url: "/konzept/struktur/"
+  - title: "Öffnungskonzept"
+    url: "/konzept/oeffnungskonzept/"
+  - title: "Raumgestaltung"
+    url: "/konzept/raumgestaltung/"
+  - title: "Finanzierungsplan"
+    url: "/konzept/finanzierungsplan/"
+
+- title: "Videos"
+  url: "/videos/"
+  side: left
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
