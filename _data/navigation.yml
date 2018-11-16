@@ -26,7 +26,7 @@
   - title: "Radio"
     url: "/media/radio/"
   - title: "Flyer&Sticker"
-    utl: "/media/material/"
+    url: "/media/material/"
 
 - title: Documentation
   url: "/documentation/"
