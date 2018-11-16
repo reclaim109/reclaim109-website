@@ -8,9 +8,9 @@ tags:
 categories:
 - konzept
 header:
-  image_fullwidth: Raum_sw.jpg
+  image_fullwidth: Kuche_sw.jpg
 image:
-  thumb: Raum_sw_thumb.jpg
+  thumb: Kuche_sw_thumb.jpg
 permalink: "/konzept/prinzipien/"
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI'
   frameborder='0' allowfullscreen></iframe>"

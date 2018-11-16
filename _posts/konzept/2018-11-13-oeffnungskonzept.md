@@ -8,9 +8,9 @@ categories:
 - konzept
 permalink: "/konzept/oeffnungskonzept/"
 header:
-  image_fullwidth: Raum_sw.jpg
+  image_fullwidth: Kuche_sw.jpg
 image:
-  thumb: Raum_sw_thumb.jpg
+  thumb: Kuche_sw_thumb.jpg
 
 ---
 _Feeling Responsive_ is built on Foundation. And of course, we make use of the wonderful grid system and so can you.  Find out more about \[constructing  beautiful layouts\]\[1\] in the foundation documentation. <!--more-->

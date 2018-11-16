@@ -9,9 +9,9 @@ categories:
 tags:
 - konzept
 header:
-  image_fullwidth: Raum_sw.jpg
+  image_fullwidth: Kuche_sw.jpg
 image:
-  thumb: Raum_sw_thumb.jpg
+  thumb: Kuche_sw_thumb.jpg
 
 ---
 _Silence is beautiful._ Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: _Feeling Responsive_ got you covered. Just say _no_ like this:

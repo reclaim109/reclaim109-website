@@ -6,9 +6,9 @@ subheadline: "Konzept der 109"
 teaser: "Konzept der 109"
 permalink: "/konzept/"
 header:
-  image_fullwidth: Raum_sw.jpg
+  image_fullwidth: Kuche_sw.jpg
 image:
-  thumb: Raum_sw_thumb.jpg
+  thumb: Kuche_sw_thumb.jpg
 ---
 Hier erscheint bald das Konzept der 109
 
