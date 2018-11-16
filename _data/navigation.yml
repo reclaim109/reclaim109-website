@@ -17,9 +17,15 @@
   - title: "Finanzierungsplan"
     url: "/konzept/finanzierungsplan/"
 
-- title: "Videos"
-  url: "/videos/"
+- title: Media
+  url: "/media/"
   side: left
+  dropdown:
+  - title: "Videos"
+    url: "/media/videos/"
+  - title: "Radio"
+    url: "/media/radio/"
+
 
 - title: Documentation
   url: "/documentation/"
