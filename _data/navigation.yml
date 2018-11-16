@@ -37,10 +37,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Suche"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
   side: right
