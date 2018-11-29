@@ -1,9 +1,8 @@
 ---
 layout: page
-subheadline: Headers With Style
+subheadline: ''
 title: Raumgestaltung
-teaser: Feeling Responsive allows you to use all kinds of headers. This example shows
-  <em>no</em> header at all. Just the navigation.
+teaser: ''
 categories:
 - konzept
 tags:
