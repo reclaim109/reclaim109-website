@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: Öffnungskonzept
+subheadline: ''
 title: Öffnungskonzept
-teaser: Öffnungskonzept
+teaser: ''
 breadcrumb: true
 categories:
 - konzept
