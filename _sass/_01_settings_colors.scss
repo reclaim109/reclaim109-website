@@ -71,8 +71,10 @@ $grey-16: #0B0B0B;
 /*  109 Farben
 ---------------------------------------- */
 $hund9-footer-text: #F5B4DD;
-$hund9-footer-bg: #1C002B;
+$hund9-footer-bg: #210033;
 $hund9-footer-links: #78D2D0;
+
+$hund9-subfooter-bg: #1C002B;
 
 $hund9-nav-text: #F5B4DD;
 $hund9-nav-bg: #1C002B;
@@ -123,7 +125,7 @@ $footer-color: $hund9-footer-text;
 $footer-link-color: $hund9-footer-links;
 
 
-$subfooter-bg: $hund9-footer-bg;
+$subfooter-bg: $hund9-subfooter-bg;
 $subfooter-color: $hund9-footer-text;
 $subfooter-link-color: $hund9-footer-links;
 
