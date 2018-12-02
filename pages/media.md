@@ -6,9 +6,9 @@ subheadline: "Veröffentlichung in den Medien"
 teaser: "Veröffentlichung in den Medien"
 permalink: "/media/"
 header:
-  image_fullwidth: Kuche_sw.jpg
+  image_fullwidth: lager_sw.jpg
 image:
-  thumb: Kuche_sw_thumb.jpg
+  thumb: lager_sw_thumb.jpg
 ---
 Hier ist bald viel zu sehen
 
