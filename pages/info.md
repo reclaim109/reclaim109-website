@@ -11,6 +11,6 @@ Die 109 war ein politisches Wohnzimmer zum Austausch, Vernetzen und Organisieren
 
 #### Verlust der Räume
 
-Bist du hingegen mehr an der Geschichte interessiert, wie diese kollektiven Räume verloren gegangen sind, können wir dich auf die Seite des [aktionsbuendnis Leipzig Ost](http://aktionsbuendnis.blogsport.eu/) verweisen.
+Bist du hingegen mehr an der Geschichte interessiert, wie diese kollektiven Räume verloren gegangen sind, können wir dich auf die Seite des [aktionsbuendnis Leipzig Ost](http://aktionsbuendnis.blogsport.eu/infos-zum-konflikt/) verweisen.
 
 ![](http://aktionsbuendnis.blogsport.eu/files/2018/06/cropped-transpi_entwurf1-01-1.jpg)
