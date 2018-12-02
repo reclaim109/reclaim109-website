@@ -2,7 +2,7 @@
 layout: page
 subheadline: ''
 title: Raumgestaltung
-teaser: ''
+teaser: 'Für die Gestaltung eines Ladenprojektes ist die Aufteilung der Räume sehr wichtig. Sie bestimmt die Art und Weise wie diese genutzt werden können maßgeblich mit. Die folgende Darstellung fasst zusammen, wie wir uns die Räume vorstellen, damit sie dem Konzept gerecht werden. Wir versuchen dabei die unterschiedlichen Bedürfnisse unserer Nutzer*innen zu beachten.'
 categories:
 - konzept
 tags:
@@ -13,8 +13,6 @@ image:
   thumb: Kuche_sw_thumb.jpg
 
 ---
-Für die Gestaltung eines Ladenprojektes ist die Aufteilung der Räume sehr wichtig. Sie bestimmt die Art und Weise wie diese genutzt werden können maßgeblich mit. Die folgende Darstellung fasst zusammen, wie wir uns die Räume vorstellen, damit sie dem Konzept gerecht werden. Wir versuchen dabei die unterschiedlichen Bedürfnisse unserer Nutzer*innen zu beachten.
-
 Das Herz des Ladenprojekts ist der große "Mehrzweckraum", also die vorderen zwei Ladenräume. Hier können auch Gruppen von 20 Personen gut gemeinsam plenieren oder Filmabende und Vorträge mit mehreren Zuschauer*innen organisiert werden. Im Leipziger Osten fehlt zu dem ein Infoladen, an dem Menschen durch Flyer, Prospekte oder Zeitungen vom Geschehen im und um das Viertel erfahren können. Hierfür erachten wir eine Ecke im Mehrzweckraum mit Flyer-Regalen als sinnvoll. Im Laufe der Jahre haben sich immer mehr Bücher über links-politische Themen, Kunst und Geschichte in der 109 angesammelt, sodass wir gerne eine kleine Bücherei mit gemütlicher Sitzecke – und eventuell in Verbindung mit einem Lesecafé – einrichten würden. 
 
 Neben dem "Mehrzweckraum" benötigen wir noch ein abschließbares Büro. Hier sollen an zwei Schreibtischen Computer, WLAN und ein Drucker bereitgestellt werden, sodass alle Nutzer*innen die Möglichkeit haben, an gut ausgestatten Arbeitsplätzen zu arbeiten, auch wenn sie selbst nicht die finanziellen Mittel haben, um sich solche Technik anzuschaffen. Außerdem können alle vereinsrelevanten Unterlagen zentral abgelegt und ein strukturierter Bereich für die Organisation des Ladens geschaffen werden. 

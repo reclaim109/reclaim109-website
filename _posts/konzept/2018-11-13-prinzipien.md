@@ -2,7 +2,7 @@
 layout: page
 subheadline: ''
 title: Prinzipien
-teaser: ''
+teaser: 'Wir wünschen uns eine Gesellschaft frei von rassistischen, sexistischen, antisemitischen, transfeindlichen und klassistischen Unterdrückungsmechanismen'
 tags:
 - konzept
 categories:

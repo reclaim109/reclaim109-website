@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: ''
 title: Finanzierungsplan
-teaser: ''
+teaser: 'Eine Beschreibung wie die 109 sich die letzten 5 Jahre finanziert hat und es in Zukunft könnte'
 breadcrumb: true
 categories:
 - konzept

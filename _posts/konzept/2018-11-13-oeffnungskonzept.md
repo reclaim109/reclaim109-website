@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: ''
 title: Öffnungskonzept
-teaser: ''
+teaser: 'Als Laden von, für und mit Menschen aus dem Viertel ist es uns besonders wichtig nicht nur per Mail erreichbar, sondern auch vor Ort ansprechbar zu sein und Interessierten so die Möglichkeit zu geben, die 109 persönlich kennen zu lernen. In den letzten Monaten und Jahren, in denen wir den Eckladen genutzt haben, gab es hierfür verschiedene „Öffnungszeiten“. Dazu zählen zum einen wöchentliche Termine und zum anderen spontane Treffen zum gemeinsamen Zeitverbringen im Laden.'
 breadcrumb: true
 categories:
 - konzept
@@ -13,8 +13,6 @@ image:
   thumb: Kuche_sw_thumb.jpg
 
 ---
-Als Laden von, für und mit Menschen aus dem Viertel ist es uns besonders wichtig nicht nur per Mail erreichbar, sondern auch vor Ort ansprechbar zu sein und Interessierten so die Möglichkeit zu geben, die 109 persönlich kennen zu lernen. In den letzten Monaten und Jahren, in denen wir den Eckladen genutzt haben, gab es hierfür verschiedene „Öffnungszeiten“. Dazu zählen zum einen wöchentliche Termine und zum anderen spontane Treffen zum gemeinsamen Zeitverbringen im Laden.
-
 Zu den regelmäßigen Veranstaltungen zählt die wöchentliche Bar, bei der sich viele Nutzer*innen getroffen haben und sich auch neue Interessierte die 109 in entspannter Atmosphäre anschauen und mit anderen Menschen in Kontakt kommen konnten. Es gab jeden Sonntag eine „Küche für alle“, bei der selbstgemachte Falafel gegen Spende für einen guten Zweck angeboten wurden. Zudem standen einmal in der Woche die Räume der 109 für ein "Café" mit Kaffee, Kuchen und Limo, einer Leseecke und Musik zur Verfügung.
 
 Da verschiedene Gruppen den Raum nutzen, um dort ihre Plena abzuhalten, Kleingruppenarbeit zu organisieren oder Veranstaltungen durchzuführen, wurde die 109 quasi täglich von vielen Menschen genutzt. 
