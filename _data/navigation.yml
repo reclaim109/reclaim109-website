@@ -28,15 +28,6 @@
   - title: "Flyer&Sticker"
     url: "/media/material/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
 - title: Blog
   url: "/blog/"
   side: left
