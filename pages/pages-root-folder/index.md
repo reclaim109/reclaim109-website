@@ -16,17 +16,17 @@ widget2:
   title: "Media"
   url: 'http://hundertneun.net/media/'
   image: FUCKdie109istweg_320x180.jpg
-  text: 'Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
+  text: 'Radiobeiträge, Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
 #widget2:
 #  title: "Media"
 #  url: 'http://hundertneun.net/media/'
-#  text: 'Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
+#  text: 'Radiobeiträge, Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Socialmedia"
   url: 'https://facebook.com/politischesWohnzimmer'
   image: hundertneun_fenster_klein_320x180.jpg
-  text: 'Folge <em>Fuck! Die 109 ist weg</em> auf Facebook um Workshops, Ausstellungen, Bilder und vieles mehr nicht zu verpassen'
+  text: 'Folge <em>Fuck! Die 109 ist weg</em> auf Facebook um Workshops, Ausstellungen, Hörbeiträge und andere Neugkeiten nicht zu verpassen'
 
 permalink: /index.html
 #
