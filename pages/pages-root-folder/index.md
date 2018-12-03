@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Konzept"
   url: 'http://hundertneun.net/konzept/'
-  image: Kuche_sw.jpg
+  image: Kuche_sw_320x180.jpg
   text: 'Das Konzept der 109 mit Infos zu <em>Struktur, Raumgestaltung, Prinzipien, Öffnungskonzept und dem Finanzierungsplan</em>'
 widget2:
   title: "Media"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Socialmedia"
   url: 'https://facebook.com/politischesWohnzimmer'
-  image: hundertneun_fenster_klein.jpg
+  image: hundertneun_fenster_klein_320x180.jpg
   text: 'Folge <em>Fuck! Die 109 ist weg</em> auf Facebook um Workshops, Ausstellungen, Bilder und vieles mehr nicht zu verpassen'
 
 permalink: /index.html
