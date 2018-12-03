@@ -21,7 +21,7 @@
   url: "/media/"
   side: left
   dropdown:
-  - title: "Videos"
+  - title: "Video"
     url: "/media/videos/"
   - title: "Radio"
     url: "/media/radio/"
