@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: ''
+subheadline: 'Konzept der 109'
 title: Raumgestaltung
 teaser: 'Für die Gestaltung eines Ladenprojektes ist die Aufteilung der Räume sehr wichtig. Sie bestimmt die Art und Weise wie diese genutzt werden können maßgeblich mit. Die folgende Darstellung fasst zusammen, wie wir uns die Räume vorstellen, damit sie dem Konzept gerecht werden. Wir versuchen dabei die unterschiedlichen Bedürfnisse unserer Nutzer*innen zu beachten.'
 categories:

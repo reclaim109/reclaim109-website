@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: ''
+subheadline: 'Konzept der 109'
 title: Finanzierungsplan
 teaser: 'Eine Beschreibung wie die 109 sich die letzten 5 Jahre finanziert hat und es in Zukunft könnte'
 breadcrumb: true

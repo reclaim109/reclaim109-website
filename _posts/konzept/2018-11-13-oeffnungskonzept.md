@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: ''
+subheadline: 'Konzept der 109'
 title: Öffnungskonzept
 teaser: 'Als Laden von, für und mit Menschen aus dem Viertel ist es uns besonders wichtig nicht nur per Mail erreichbar, sondern auch vor Ort ansprechbar zu sein und Interessierten so die Möglichkeit zu geben, die 109 persönlich kennen zu lernen. In den letzten Monaten und Jahren, in denen wir den Eckladen genutzt haben, gab es hierfür verschiedene „Öffnungszeiten“. Dazu zählen zum einen wöchentliche Termine und zum anderen spontane Treffen zum gemeinsamen Zeitverbringen im Laden.'
 breadcrumb: true

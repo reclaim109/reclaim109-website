@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: ''
+subheadline: 'Konzept der 109'
 title: Prinzipien
 teaser: 'Wir wünschen uns eine Gesellschaft frei von rassistischen, sexistischen, antisemitischen, transfeindlichen und klassistischen Unterdrückungsmechanismen'
 tags:
