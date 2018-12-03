@@ -14,9 +14,14 @@ widget1:
   text: 'Das Konzept der 109 mit Infos zu <em>Struktur, Raumgestaltung, Prinzipien, Öffnungskonzept und dem Finanzierungsplan</em>'
 widget2:
   title: "Media"
-  url: 'http://hundertneun.net/konzept/media/'
+  url: 'http://hundertneun.net/media/'
+  image: FUCKdie109istweg_320x180.jpg
   text: 'Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#widget2:
+#  title: "Media"
+#  url: 'http://hundertneun.net/media/'
+#  text: 'Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Socialmedia"
   url: 'https://facebook.com/politischesWohnzimmer'
@@ -31,9 +36,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!--<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div>-->
