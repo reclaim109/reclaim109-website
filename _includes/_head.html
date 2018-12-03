@@ -22,7 +22,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
 
-    <meta property="og:image" content="{{ site.urlimg }}/Raum_sw.jpg" />
 
     <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
 
@@ -64,6 +63,7 @@
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:image" content="{{ site.urlimg }}/Raum_sw_thumb.jpg" >
 	{% if page.image.title %}<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
