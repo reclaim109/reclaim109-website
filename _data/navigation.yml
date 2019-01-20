@@ -27,6 +27,8 @@
     url: "/media/radio/"
   - title: "Flyer&Sticker"
     url: "/media/material/"
+  - title: "Podcast"
+    url: "/media/podcast/"
 
 - title: Blog
   url: "/blog/"
