@@ -8,9 +8,9 @@ permalink: "/audiowalk/"
 ---
 * 06.03.2019 Stand - 16. Schule
 * 14.03.2019 Stand - OFT Rabet
-* 23.03.2019 VeKü - Kostenlos Falafel essen
-* 28.03.2019 Trap-Workshop - Gemeinsam Musik machen
-* 03.04.2019 Gemeinsam Hörspiel Hören und Über Stadtplanung reden
+* 24.03.2019 Falafel für alle
+* 28.03.2019 Trap-Workshop - gemeinsam Musik machen
+* 04.04.2019 gemeinsam Hörspiel hören und über Stadtplanung reden
 * 11.04.2019 Besuch im Erythrosin
 * 18.04.2019
 * 02.05.2019
@@ -24,5 +24,4 @@ permalink: "/audiowalk/"
 * 04.07.2019
 * 08.07.2019
 
-Treffpunkt Elisabethstraße 17 um 16 Uhr
-Rückfragen und Anmeldung: info@ongoing-project.org
+Treffpunkt Elisabethstraße 17 um 15:45 Uhr Rückfragen und Anmeldung: info@ongoing-project.org
