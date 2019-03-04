@@ -2,10 +2,12 @@
 layout: page
 header: false
 title: Audiowalk
-teaser: Termine für den Audiowalk Eisenbahnstraße 2019
+teaser: Audiowalk und Kunstprojekt "Eisenbahnstraße 2019"
 permalink: "/audiowalk/"
 
 ---
+Termine für den Audiowalk
+
 * 06.03.2019 Stand - 16. Schule
 * 14.03.2019 Stand - OFT Rabet
 * 24.03.2019 Falafel für alle
