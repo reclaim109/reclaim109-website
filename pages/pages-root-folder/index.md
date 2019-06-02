@@ -16,7 +16,7 @@ widget2:
   title: "Media"
   url: 'http://hundertneun.net/media/'
   text: 'Radiobeiträge, Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://raw.githubusercontent.com/reclaim109/reclaim109-website/master/images/video_thumb.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://img.youtube.com/vi/J-5FgVnZhdQ/maxresdefault.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Socialmedia"
   url: 'https://facebook.com/politischesWohnzimmer'
@@ -33,7 +33,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen youtube" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=J-5FgVnZhdQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/J-5FgVnZhdQ" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
