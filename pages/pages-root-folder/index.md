@@ -16,7 +16,7 @@ widget2:
   title: "Media"
   url: 'http://hundertneun.net/media/'
   text: 'Radiobeiträge, Videos, Flyer, Sticker und viel mehr rundum von <em>Fuck! Die 109 ist weg</em>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://img.youtube.com/vi/J-5FgVnZhdQ/maxresdefault.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://raw.githubusercontent.com/reclaim109/reclaim109-website/master/images/video_thumb.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Socialmedia"
   url: 'https://facebook.com/politischesWohnzimmer'
