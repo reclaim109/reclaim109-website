@@ -1,0 +1,16 @@
+---
+layout: page
+title: AufDerEisi
+teaser: Text-Adventure über den Verlust der 109
+breadcrumb: true
+permalink: "/media/text-spiel/"
+categories:
+- media
+image:
+  title: Eisenspiel.jpg
+  thumb: Eisenspiel_thumb.jpg
+
+---
+Ein Text-Spiel mit Geschichten aus dem Leipziger Osten. Über Abende im Viertel und den Verlust unserer kollektiven Räume: [https://aufdereisi.github.io](https://aufdereisi.github.io "https://aufdereisi.github.io")
+
+Vielen Dank an _liebe_ für das schöne Spiel
