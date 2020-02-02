@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AufDerEisi
-teaser: Text-Adventure über den Verlust der 109
+title: Audiowalk
+teaser: 'Audiowalk - EISENBAHNSTRASZE 2019 '
 breadcrumb: true
-permalink: "/media/text-spiel/"
+permalink: "/media/audiowalk/"
 categories:
 - media
 image:
@@ -11,6 +11,4 @@ image:
   thumb: Eisenspiel_thumb.jpg
 
 ---
-Ein Text-Spiel mit Geschichten aus dem Leipziger Osten. Über Abende im Viertel und den Verlust unserer kollektiven Räume: [https://aufdereisi.github.io](https://aufdereisi.github.io "https://aufdereisi.github.io")
-
-Vielen Dank an _liebe_ für das schöne Spiel
+Ein Audiowalk über die Eisi, Ladenprojekte, Gentrifizierung und die 109 von ongoing project [https://www.ongoing-project.org/project.php?id=59/EISENBAHNSTRASZE-2019](https://www.ongoing-project.org/project.php?id=59/EISENBAHNSTRASZE-2019 "https://www.ongoing-project.org/project.php?id=59/EISENBAHNSTRASZE-2019")
